@@ -11,12 +11,7 @@ const contentValidationChain = check('content','content must be not empty')
     .notEmpty().bail()
     .isLength({min: 5}).withMessage("content must at least 5 characters long")
 
-const imageValidationChain = check('image','image must be not empty')
-    .exists().bail()
-    .notEmpty().bail()
-    .isLength({min: 3, max: 1234}).withMessage("image must be between 3 to 1234 characters long");
-
-const categoryIdValidationChain =  check('categoryId', 'categoryId must not be empty')
+const categoryIdValidationChain =  check('categoryId', 'categoryId must be not empty')
     .exists().bail()
     .notEmpty().bail()
     .isNumeric({no_symbols: true}).withMessage("categoryId must be a valid integer value");
@@ -25,7 +20,6 @@ const categoryIdValidationChain =  check('categoryId', 'categoryId must not be e
 const inputValidation = [
     nameValidationChain,
     contentValidationChain,
-    imageValidationChain,
     categoryIdValidationChain,
     checkValidationResults
 ];
