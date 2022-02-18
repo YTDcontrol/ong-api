@@ -49,40 +49,6 @@ Email: testAdminEmail3@gmail.com
 Password: adminPasswordOT118!
 
 
-Name: Miguel
-Email: testAdminEmail4@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Lara
-Email: testAdminEmail5@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Ricardo
-Email: testAdminEmail6@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Axel
-Email: testAdminEmail7@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Ramiro
-Email: testAdminEmail8@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Esteban
-Email: testAdminEmail9@gmail.com
-Password: adminPasswordOT118!
-
-
-Name: Elias
-Email: testAdminEmail10@gmail.com
-Password: adminPasswordOT118!
-
 ```
 
 
@@ -105,44 +71,5 @@ Name: Jorge
 Email: testEmail2@gmail.com
 Password: passwordOT118!
 
-
-Name: Abel
-Email: testEmail3@gmail.com
-Password: passwordOT118!
-
-
-Name: Martin
-Email: testAEmail4@gmail.com
-Password: passwordOT118!
-
-
-Name: Belen
-Email: testEmail5@gmail.com
-Password: passwordOT118!
-
-
-Name: Prinscila
-Email: testEmail6@gmail.com
-Password: passwordOT118!
-
-
-Name: Gabriel
-Email: testmail7@gmail.com
-Password: passwordOT118!
-
-
-Name: Brian
-Email: testEmail8@gmail.com
-Password: passwordOT118!
-
-
-Name: Anastasia
-Email: testEmail9@gmail.com
-Password: passwordOT118!
-
-
-Name: Gonzalo
-Email: testEmail10@gmail.com
-Password: passwordOT118!
 
 ```
